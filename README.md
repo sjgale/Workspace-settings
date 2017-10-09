@@ -21,3 +21,5 @@ Items and settings to make setting up a new computer easier.
 - [Ag](https://github.com/ggreer/the_silver_searcher)
 - [Node](https://nodejs.org/en/)
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+Great tool to help install apps quickly: [http://macapps.link/en](http://macapps.link/en)
