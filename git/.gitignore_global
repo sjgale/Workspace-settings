@@ -1,0 +1,10 @@
+## GENERAL AND PERSONAL CONFIG SETTINGS
+*~
+.DS_Store
+
+## BUILD FILES
+backend/build
+depot/build
+socket/build
+common/build
+.gradle/3.3/taskArtifacts

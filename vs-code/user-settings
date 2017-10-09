@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+
+    "workbench.colorTheme": "Nord",
+    "workbench.iconTheme": "vscode-great-icons",
+
+    "git.enableSmartCommit": true,
+
+    "prettier.eslintIntegration": true,
+}
