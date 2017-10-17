@@ -2,6 +2,10 @@
 
 Items and settings to make setting up a new computer easier.
 
+## Great place to start
+Download homebrew:
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
 ## Tools I download:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Hyper](https://hyper.is/)
