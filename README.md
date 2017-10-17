@@ -4,7 +4,10 @@ Items and settings to make setting up a new computer easier.
 
 ## Great place to start
 Download homebrew:
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew tap caskroom/cask
+```
 
 ## Tools I download:
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -29,3 +32,17 @@ Great tool to help install apps  a good number of these apps quickly: [http://ma
 
 This should install Firefox, Chrome, Canary, Sourcetree, VSCode, iTerm, Spotify, Slack
 `curl -s 'http://macapps.link/en/firefoxdev-chrome-chromecanary-sourcetree-vscode-iterm-spotify-slack' | sh`
+
+## Easy installing with brew
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew tap caskroom/cask
+brew install node
+brew install the_silver_searcher
+brew cask install google-chrome
+brew cask install visual-studio-code
+brew cask install iterm2
+brew cask install slack
+brew cask install sourcetree
+brew cask install spotify
+```
