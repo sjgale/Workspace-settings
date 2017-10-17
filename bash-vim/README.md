@@ -1,2 +1,2 @@
 # Setting up Bash and VIM
-Copy the .vimrc and .bash_profile files to your user root
+Copy the .profile, .zshrc, .vimrc and .bash_profile files to your user root
