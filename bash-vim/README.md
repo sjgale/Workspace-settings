@@ -13,4 +13,4 @@ cd ..
 rm -rf fonts
 ```
 
-Likely you will also need to open you iTerm preferences [cmd+,], profiles > text, and update the font. I use Fira Mono.
+Likely you will also need to open you iTerm preferences `[cmd+,]`, profiles > text, and update the font. I use Fira Mono. Then update profiles > colors > Color Presets to `Solarized Dark`.
