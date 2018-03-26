@@ -1,16 +1,7 @@
 # Setting up Bash and VIM
-Copy the .profile, .zshrc, .vimrc and .bash_profile files to your user root
+Copy the .profile, .vimrc and .bash_profile files to your user root
 
+For terminal color themes: https://github.com/lysyi3m/osx-terminal-themes << Chalkboard is pleasant
+For case insensitive autocompletion: https://askubuntu.com/questions/87061/can-i-make-tab-auto-completion-case-insensitive-in-the-terminal
 
-```
-brew cask install iterm2
-sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-
-git clone https://github.com/powerline/fonts.git
-cd fonts
-./install.sh
-cd ..
-rm -rf fonts
-```
-
-Likely you will also need to open you iTerm preferences `[cmd+,]`, profiles > text, and update the font. I use Fira Mono. Then update profiles > colors > Color Presets to `Solarized Dark`.
+FYI, Fira Mono is a nice terminal font.
