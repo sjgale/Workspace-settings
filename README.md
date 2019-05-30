@@ -45,3 +45,6 @@ brew cask install spotify
 ```
 ## Enable touchbar terminal authentication:
 [Instructions for setting this up](http://osxdaily.com/2017/11/22/use-touch-id-sudo-mac/)
+
+## Add Node, NPM through NVM
+[Instructions for installing NVM](https://github.com/nvm-sh/nvm)
