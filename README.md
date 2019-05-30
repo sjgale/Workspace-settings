@@ -43,3 +43,5 @@ brew cask install slack
 brew cask install sourcetree
 brew cask install spotify
 ```
+## Enable touchbar terminal authentication:
+[Instructions for setting this up](http://osxdaily.com/2017/11/22/use-touch-id-sudo-mac/)
