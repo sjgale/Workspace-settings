@@ -43,5 +43,5 @@ brew install the_silver_searcher
 ## Add Node, NPM through NVM
 [Instructions for installing NVM](https://github.com/nvm-sh/nvm)
 
-## Install Docker from a recent, stable binary
-[Here is the list from Docker](https://download.docker.com/mac/static/stable/x86_64/)
+## Install Docker
+[Here are some pretty simple instructions](https://runnable.com/docker/install-docker-on-macos)
