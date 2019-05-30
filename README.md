@@ -35,13 +35,7 @@ This should install Firefox, Chrome, Canary, Sourcetree, VSCode, Spotify, Slack
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew tap caskroom/cask
-brew install node
 brew install the_silver_searcher
-brew cask install google-chrome
-brew cask install visual-studio-code
-brew cask install slack
-brew cask install sourcetree
-brew cask install spotify
 ```
 ## Enable touchbar terminal authentication:
 [Instructions for setting this up](http://osxdaily.com/2017/11/22/use-touch-id-sudo-mac/)
