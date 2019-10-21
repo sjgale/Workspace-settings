@@ -1,10 +1,22 @@
 # Plugins I use for VSCode
+
+## Language Support
 ESLint
 TSLint
 HTML Snippets
-Nord (theme)
-VSCode Great Icons
 Auto Close Tag
 Auto Rename Tag
-Typescript React Snippets
 Auto Import
+Typescript React code snippets
+
+## Appearance
+Nord (theme)
+VSCode Great Icons
+VSCode Great Icons
+
+## Other
+Debugger for Chrome
+Git Stash
+GitLens
+Live Share
+Vim
