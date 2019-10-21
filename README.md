@@ -32,6 +32,7 @@ brew tap caskroom/cask
 - [PostBird](https://electronjs.org/apps/postbird)
 - [Insomnia](https://insomnia.rest/)
 - [Surfshark](https://surfshark.com/download/macos)
+- [Tunnelblick](https://tunnelblick.net/downloads.html)
 - From App Store
   - Giphy Capture
   - Gif Brewery 3
