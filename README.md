@@ -12,19 +12,29 @@ brew tap caskroom/cask
 ## Tools I download:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) / [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
+  - (These should install automatically with my Chrome Profile)
   - [ColorZilla](http://www.colorzilla.com/)
   - [GraphiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij?hl=en)
   - React DevTools
   - Angular DevTools (Augury)
   - var_masterpiece
+  - Moment
+  - Zoom
 - [Firefox](https://www.mozilla.org/en-US/firefox/developer/)
 - [SourceTree](https://www.sourcetreeapp.com/)
+- [Spectactle](https://www.spectacleapp.com/)
 - [Slack](https://slack.com/downloads/osx)
 - [VLC](https://www.videolan.org/vlc/index.html)
 - [Spotify](https://www.spotify.com/us/download/other/)
 - [Ag](https://github.com/ggreer/the_silver_searcher)
 - [Node](https://nodejs.org/en/)
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [PostBird](https://electronjs.org/apps/postbird)
+- [Insomnia](https://insomnia.rest/)
+- [Surfshark](https://surfshark.com/download/macos)
+- From App Store
+  - Giphy Capture
+  - Gif Brewery 3
 
 Great tool to help install apps  a good number of these apps quickly: [http://macapps.link/en](http://macapps.link/en)
 
