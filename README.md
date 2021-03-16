@@ -21,21 +21,44 @@ brew tap caskroom/cask
   - Moment
   - Zoom
 - [Firefox](https://www.mozilla.org/en-US/firefox/developer/)
-- [SourceTree](https://www.sourcetreeapp.com/)
-- [Spectactle](https://www.spectacleapp.com/)
 - [Slack](https://slack.com/downloads/osx)
 - [VLC](https://www.videolan.org/vlc/index.html)
 - [Spotify](https://www.spotify.com/us/download/other/)
 - [Ag](https://github.com/ggreer/the_silver_searcher)
 - [Node](https://nodejs.org/en/)
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- [PostBird](https://electronjs.org/apps/postbird)
-- [Insomnia](https://insomnia.rest/)
+- [TablePlus](https://tableplus.com/)
+- [Postman](https://insomnia.rest/)
 - [Surfshark](https://surfshark.com/download/macos)
 - [Tunnelblick](https://tunnelblick.net/downloads.html)
 - From App Store
   - Giphy Capture
   - Gif Brewery 3
+- Nimbus Note
+- Focus Matrix
+- ForkLift
+- AudioHijack
+- SoundSource
+- RH Timer
+- Docker Desktop
+- Krisp
+- Webcam Settings
+- Blurred
+- Rectangle
+- Alfred
+- AltTab
+- AutoDND
+- MeetingBar
+- Hidden Bar
+- Vidrio
+- iClip
+- Calendar 366
+- iStatistica Pro
+- PDF Protector
+- Typora
+- uBar
+- OBS
+- Dockey???
 
 Great tool to help install apps  a good number of these apps quickly: [http://macapps.link/en](http://macapps.link/en)
 
