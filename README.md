@@ -53,6 +53,9 @@ brew tap caskroom/cask
 - [OBS](https://obsproject.com/)
 - [Bartender](https://www.macbartender.com/Bartender4/)
 - [MeetingBar](https://meetingbar.onrender.com/)
+- Terminal
+  - [OhMyZSH](https://ohmyz.sh/)
+  - [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)
 
 Great tool to help install apps  a good number of these apps quickly: [http://macapps.link/en](http://macapps.link/en)
 
