@@ -9,17 +9,16 @@ Download homebrew:
 brew tap caskroom/cask
 ```
 
-## Tools I download:
+## Tools I use:
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Chrome](https://www.google.com/chrome/browser/desktop/index.html) / [Chrome Canary](https://www.google.com/chrome/browser/canary.html)
+- [Chrome](https://www.google.com/chrome/browser/desktop/index.html)
   - (These should install automatically with my Chrome Profile)
+  - Bookmark Sidebar
+  - Lighthouse
   - [ColorZilla](http://www.colorzilla.com/)
-  - [GraphiQL](https://chrome.google.com/webstore/detail/chromeiql/fkkiamalmpiidkljmicmjfbieiclmeij?hl=en)
   - React DevTools
-  - Angular DevTools (Augury)
-  - var_masterpiece
-  - Moment
   - Zoom
+  - GoFullPage (screenshots)
 - [Firefox](https://www.mozilla.org/en-US/firefox/developer/)
 - [Slack](https://slack.com/downloads/osx)
 - [VLC](https://www.videolan.org/vlc/index.html)
@@ -29,36 +28,36 @@ brew tap caskroom/cask
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [TablePlus](https://tableplus.com/)
 - [Postman](https://insomnia.rest/)
-- [Surfshark](https://surfshark.com/download/macos)
 - [Tunnelblick](https://tunnelblick.net/downloads.html)
 - From App Store
-  - Giphy Capture
+  - HazeOver
+  - Timer RH
+  - Nimbus Note
+  - Webcam Settings
   - Gif Brewery 3
-- Nimbus Note
-- Focus Matrix
-- ForkLift
-- AudioHijack
-- SoundSource
-- RH Timer
-- Docker Desktop
-- Krisp
-- Webcam Settings
-- Blurred
+  - Focus Matrix
+  - Vidrio (Holographic Overlay)
+  - [Surfshark](https://surfshark.com/download/macos)
+- [BundleHunt](BundleHunt.com)
+  - Pastory
+  - DevUtils
+  - Calendar 366
+  - PDF Protector
+  - ForkLift
+- [Rogue Amoeba](https://rogueamoeba.com/)
+  - AudioHijack
+  - SoundSource
 - Rectangle
-- Alfred
-- AltTab
-- AutoDND
-- MeetingBar
-- Hidden Bar
-- Vidrio
-- iClip
-- Calendar 366
-- iStatistica Pro
-- PDF Protector
-- Typora
-- uBar
+- [AltTab](https://alt-tab-macos.netlify.app/)
+- [Typora](https://typora.io/)
 - OBS
-- Dockey???
+- [Bartender](https://www.macbartender.com/Bartender4/)
+
+# Still evaluating
+- Meeting assistant
+  - [MeetingBar](https://github.com/leits/MeetingBar)
+  - Next Meeting (App store)
+  - Meeter (App store)
 
 Great tool to help install apps  a good number of these apps quickly: [http://macapps.link/en](http://macapps.link/en)
 
