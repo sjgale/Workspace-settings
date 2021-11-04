@@ -47,15 +47,15 @@ brew tap caskroom/cask
 - [Rogue Amoeba](https://rogueamoeba.com/)
   - AudioHijack
   - SoundSource
-- Rectangle
+- [Rectangle](https://rectangleapp.com/)
 - [AltTab](https://alt-tab-macos.netlify.app/)
 - [Typora](https://typora.io/)
-- OBS
+- [OBS](https://obsproject.com/)
 - [Bartender](https://www.macbartender.com/Bartender4/)
 
 # Still evaluating
 - Meeting assistant
-  - [MeetingBar](https://github.com/leits/MeetingBar)
+  - [MeetingBar](https://meetingbar.onrender.com/)
   - Next Meeting (App store)
   - Meeter (App store)
 
