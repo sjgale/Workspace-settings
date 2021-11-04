@@ -52,12 +52,7 @@ brew tap caskroom/cask
 - [Typora](https://typora.io/)
 - [OBS](https://obsproject.com/)
 - [Bartender](https://www.macbartender.com/Bartender4/)
-
-# Still evaluating
-- Meeting assistant
-  - [MeetingBar](https://meetingbar.onrender.com/)
-  - Next Meeting (App store)
-  - Meeter (App store)
+- [MeetingBar](https://meetingbar.onrender.com/)
 
 Great tool to help install apps  a good number of these apps quickly: [http://macapps.link/en](http://macapps.link/en)
 
@@ -73,7 +68,7 @@ brew install the_silver_searcher
 ## Enable touchbar terminal authentication:
 [Instructions for setting this up](http://osxdaily.com/2017/11/22/use-touch-id-sudo-mac/)
 
-## Add Node, NPM through NVM
+## Add Node, NPM through NVM <---(Move to using NPX?)
 [Instructions for installing NVM](https://github.com/nvm-sh/nvm)
 
 ## Install Docker
