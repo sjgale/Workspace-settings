@@ -2,17 +2,18 @@
 
 Items and settings to make setting up a new computer easier.
 
-## Great place to start
-Install Homebrew and Brewfile: https://gist.github.com/sjgale/26b91f7e8843e798e198274385bd147a
+## Start here:
+Run these to install Homebrew and essential applications:
+```
+cd ~
+curl -o Brewfile -sSL https://gist.githubusercontent.com/sjgale/26b91f7e8843e798e198274385bd147a/raw/83957f05c13524f3ddfe4206f2b21721173235ee/Brewfile
+curl -o brewup -sSL https://gist.githubusercontent.com/sjgale/e1ad3bf7350dc4f96b6bd47a93426619/raw/e8e181d9f44ba04de96e764e0a9b4224a677224e/brewup
+chmod +x brewup
+./brewup
+```
 
 Follow the Dev Machine setup guide here:
 https://www.notion.so/articulate-global/Dev-Machine-Setup-4f7a64b4672942dbbca97865d602f113?pm=c
-
-Download homebrew:
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew tap caskroom/cask
-```
 
 ## Tools I use:
 - [Visual Studio Code](https://code.visualstudio.com/)
