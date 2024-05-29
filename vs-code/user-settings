@@ -1,14 +1,49 @@
 {
-    "editor.formatOnSave": false,
     "editor.formatOnPaste": false,
     "editor.renderWhitespace": "all",
     "editor.tabSize": 2,
     "editor.wordWrap": "on",
 
-    "workbench.colorTheme": "Nord",
+    "workbench.colorTheme": "Ayu Dark Bordered",
     "workbench.iconTheme": "vscode-great-icons",
 
     "git.enableSmartCommit": true,
+    "gitlens.gitCommands.closeOnFocusOut": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "files.associations": {
+        "*.html": "handlebars"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnSaveMode": "modifications",
+    "liveshare.authenticationProvider": "GitHub",
+    "eslint.format.enable": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "css.completion.completePropertyWithSemicolon": false,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "typescript.format.enable": false,
 
-    "prettier.eslintIntegration": true,
+    "editor.fontFamily": "'Fira Code', 'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontVariations": true,
+    "editor.fontWeight": 200,
+    "editor.accessibilitySupport": "off",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "githubPullRequests.terminalLinksHandler": "github",
+    "vim.disableExtension": true,
+    "githubPullRequests.pullBranch": "never",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "github.copilot.editor.enableAutoCompletions": true
 }
