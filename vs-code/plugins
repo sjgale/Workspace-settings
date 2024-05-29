@@ -1,6 +1,7 @@
 # Plugins I use for VSCode
 
 ## Language Support
+Docker
 ESLint
 TSLint
 HTML Snippets
@@ -8,10 +9,14 @@ Auto Close Tag
 Auto Rename Tag
 Auto Import
 Typescript React code snippets
+XLF Editor
+ShellCheck
+Terraform
+Github CoPilot
+Github Pull Requests
 
 ## Appearance
-Nord (theme)
-VSCode Great Icons
+AYU (Dark Bordered)
 VSCode Great Icons
 
 ## Other
@@ -20,3 +25,4 @@ Git Stash
 GitLens
 Live Share
 Vim
+Vim Cheatsheet
