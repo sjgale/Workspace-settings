@@ -3,6 +3,8 @@
 Items and settings to make setting up a new computer easier.
 
 ## Great place to start
+Install Homebrew and Brewfile: https://gist.github.com/sjgale/26b91f7e8843e798e198274385bd147a
+
 Follow the Dev Machine setup guide here:
 https://www.notion.so/articulate-global/Dev-Machine-Setup-4f7a64b4672942dbbca97865d602f113?pm=c
 
