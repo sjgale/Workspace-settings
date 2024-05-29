@@ -1,14 +1,7 @@
-[core]
-	excludesfile = /Users/samuel-gale/.gitignore_global
-[difftool "sourcetree"]
-	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-	path = 
-[mergetool "sourcetree"]
-	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
-	trustExitCode = true
 [user]
-	name = Samuel Gale
-	email = sam.gale@byu.net
+	name = Sam Gale
+	email = sjwindy@gmail.com
+        signingkey = C1C71897C30F6F1C
 [alias]
 	co = checkout
 	c = commit
@@ -21,3 +14,8 @@
 	dump = cat-file -p
 [commit]
 	template = /Users/sgale/.stCommitMsg
+        gpgsign = true
+[init]
+        defaultBranch = main
+[tag]
+        gpgsign = true
