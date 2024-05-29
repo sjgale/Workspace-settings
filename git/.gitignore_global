@@ -8,3 +8,6 @@ depot/build
 socket/build
 common/build
 .gradle/3.3/taskArtifacts
+node_modules
+build
+dist
